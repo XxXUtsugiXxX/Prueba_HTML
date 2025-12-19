@@ -1,9 +1,9 @@
-• Instrucciones para clonar y visualizar el proyecto.
+• Instructions for cloning a git repository
 
-para clonar el repositorio debes de ir a git y copiar el url del repositorio, ir a la terminal ubicarte en el apartado donde quieres que quede la carpeta clonada, escritorio, documentos, etc. ya cuando estas parado dodne quieres clonar la carpeta, copias en terminal git clone mas la url del repositorio y le das enter, si quieres modificar y luego subir ese mismo archivo debes darle un git pull desde la terminal
+To clone the repository, go to Git and copy the repository URL. Open the terminal and navigate to the location where you want the cloned folder to be saved (Desktop, Documents, etc.). Once you're in the desired location, copy `git clone` followed by the repository URL into the terminal and press Enter. If you want to modify and then push the same file, use `git pull` from the terminal.
 
 
-• Información del coder 
+information of the coder
 
 Nombre: Brayhan Barrera Lopez
 Clan: Tesla
